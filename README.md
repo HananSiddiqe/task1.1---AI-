@@ -1,6 +1,6 @@
 # task1.1 AI
 Robot operating system installation and configuration
-Steps:
+# Steps:
 1. Installing an appropriate Virtual machine software in this case (VMware).
 2. Downloading Ubuntu 18.0 which is the version of Ubuntu that ROS Melodic can efficiently work with.
 3. Installing the Virtual machine and sitting up the new Operating System.
