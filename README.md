@@ -17,7 +17,6 @@ Robot operating system installation and configuration
  ![3](https://user-images.githubusercontent.com/76397219/126936851-b4d17b3a-0cad-425b-af65-004103c6e3f4.JPG)
  
 8.  Installing the dependencies (moveit,joint state puplisher,gazebo) using the terminal.
-9.  ompile the package.
+9.  compile the package.
 10. sing the ($ roslaunch robot_arm_pkg check_motors.launch) command to launch the Robotic Arm control
-
-  Installi![التقاط](https://user-images.githubusercontent.com/76397219/126937442-98fc590f-73cc-40ff-9822-035233c991d3.JPG)
+  ![التقاط](https://user-images.githubusercontent.com/76397219/126937442-98fc590f-73cc-40ff-9822-035233c991d3.JPG)
