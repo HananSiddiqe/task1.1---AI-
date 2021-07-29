@@ -1,9 +1,9 @@
 # task1.1 AI
-Robot operating system installation and configuration
+This repository will explain how to install and configure Robot operating system 
 # Steps:
-1. Installing an appropriate Virtual machine software in this case (VMware).
-2. Downloading Ubuntu 18.0 which is the version of Ubuntu that ROS Melodic can efficiently work with.
-3. Installing the Virtual machine and sitting up the new Operating System.
+1. Install Virtual machine software (VMware).
+2. Install Ubuntu-18.04 to work with ROS platform.
+3. Sitting up the new Operating System in VMware.
  ![11](https://user-images.githubusercontent.com/76397219/126935817-e3a2687a-6954-4b7d-98b6-5bef5cde3b8a.JPG)
  
 4. Opening the terminal and Download the ROS Melodic software using the steps on the download page (http://wiki.ros.org/melodic/Installation/Ubuntu).
